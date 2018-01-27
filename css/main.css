@@ -50,6 +50,8 @@ h2
 #contentArea2
 {
   clear: both;
+  border-bottom: solid 13px #ff00e4;
+  overflow: hidden;
 }
 
 #content2p
@@ -62,6 +64,12 @@ h2
   width: 314px;
   height: 314px;
   float: right;
+}
+
+#contentArea3
+{
+  border-bottom: solid 13px #ff00e4;
+  overflow: hidden;
 }
 
 #family
