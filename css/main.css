@@ -3,3 +3,18 @@
 {
   display: none;
 }
+
+body
+{
+  font-family: arial,helvetica,sans-serif;
+  font-size: 16pt;
+  background-color: black;
+  color: white;
+}
+
+h1
+{
+  font-family: arial,helvetica,sans-serif;
+  font-size: 70pt;
+  text-align: center;
+}
