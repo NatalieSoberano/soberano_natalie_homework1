@@ -17,4 +17,73 @@ h1
   font-family: arial,helvetica,sans-serif;
   font-size: 70pt;
   text-align: center;
+  margin-bottom: 21px;
+  margin-top: 21px;
+  border-bottom: solid 13px #ff00e4;
+}
+
+h2
+{
+  font-family: arial,helvetica,sans-serif;
+  font-size: 50pt;
+}
+
+#contentArea1
+{
+  border-bottom: solid 13px #ff00e4;
+  overflow: hidden;
+}
+
+#content1Img
+{
+  height: 269px;
+  width: 279px;
+  float: left;
+}
+
+#content1p
+{
+  float: right;
+  font-size: 20pt;
+}
+
+#contentArea2
+{
+  clear: both;
+}
+
+#content2p
+{
+  float: left;
+}
+
+#singing
+{
+  width: 314px;
+  height: 314px;
+  float: right;
+}
+
+#family
+{
+  height: 186px;
+  width: 189px;
+}
+
+#friends
+{
+  height: 186px;
+  width: 189px;
+}
+
+#house
+{
+  height: 186px;
+  width: 189px;
+}
+
+#babies
+{
+  height: 186px;
+  width: 189px;
 }
