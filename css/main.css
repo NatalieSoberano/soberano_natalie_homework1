@@ -39,6 +39,8 @@ h2
   height: 269px;
   width: 279px;
   float: left;
+  margin-right: 20px;
+  margin-left: 20px;
 }
 
 #content1p
@@ -64,6 +66,7 @@ h2
   width: 314px;
   height: 314px;
   float: right;
+  margin-left: 20px;
 }
 
 #contentArea3
