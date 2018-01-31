@@ -10,9 +10,13 @@ body
   font-size: 16pt;
   background-color: black;
   color: white;
-  width: 980px;
   margin: 0;
   padding: 0;
+}
+
+#siteContainer
+{
+    width: 980px;
 }
 
 h1
