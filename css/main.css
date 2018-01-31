@@ -10,12 +10,15 @@ body
   font-size: 16pt;
   background-color: black;
   color: white;
+  width: 980px;
+  margin: 0;
+  padding: 0;
 }
 
 h1
 {
   font-family: arial,helvetica,sans-serif;
-  font-size: 70pt;
+  font-size: 65pt;
   text-align: center;
   margin-bottom: 21px;
   margin-top: 21px;
@@ -30,7 +33,7 @@ h2
 
 #contentArea1
 {
-  border-bottom: solid 13px #ff00e4;
+  border-bottom:solid 13px #ff00e4;
   overflow: hidden;
 }
 
@@ -59,6 +62,14 @@ h2
 #content2p
 {
   float: left;
+  width: 590px;
+  margin-left: 30px;
+}
+
+#contentArea2 h2
+{
+  text-align: left;
+  padding-left: 250px;
 }
 
 #singing
@@ -66,7 +77,7 @@ h2
   width: 314px;
   height: 314px;
   float: right;
-  margin-left: 20px;
+  margin-right: 20px;
 }
 
 #contentArea3
@@ -75,26 +86,53 @@ h2
   overflow: hidden;
 }
 
+#contentArea3 h2
+{
+  text-align: right;
+}
+
+#content3p
+{
+  float: right;
+  width: 500px;
+}
+
+#imagesLeft
+{
+  float: left;
+}
+
+#imagesRight
+{
+  float: left;
+}
+
 #family
 {
-  height: 186px;
-  width: 189px;
+  height: 200px;
+  width: 200px;
 }
 
 #friends
 {
-  height: 186px;
-  width: 189px;
+  height: 200px;
+  width: 200px;
 }
 
 #house
 {
-  height: 186px;
-  width: 189px;
+  height: 200px;
+  width: 200px;
 }
 
 #babies
 {
-  height: 186px;
-  width: 189px;
+  height: 200px;
+  width: 200px;
+}
+
+#images
+{
+  margin-bottom: 60px;
+  margin-left: 25px;
 }
