@@ -28,7 +28,8 @@ h1
 h2
 {
   font-family: arial,helvetica,sans-serif;
-  font-size: 50pt;
+  font-size: 50px;
+  text-align: center;
 }
 
 #contentArea1
@@ -68,8 +69,15 @@ h2
 
 #contentArea2 h2
 {
-  text-align: left;
-  padding-left: 250px;
+
+}
+
+#writingLeft
+{
+  float: left;
+  width: 600px;
+  height: 260px;
+  margin-bottom: 40px;
 }
 
 #singing
@@ -88,13 +96,19 @@ h2
 
 #contentArea3 h2
 {
-  text-align: right;
+
 }
 
 #content3p
 {
   float: right;
   width: 500px;
+}
+
+#writingRight
+{
+  width: 500px;
+  height: 340px;
 }
 
 #imagesLeft
